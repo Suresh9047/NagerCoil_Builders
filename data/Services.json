@@ -1,0 +1,558 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Consulting",
+      "services": [
+        {
+          "image": "/assets/images/sconstruction3.avif",
+          "image1": "/assets/images/sconstruction3.avif",
+          "icon": "/assets/images/afprice.png",
+          "benefits": [
+            "Expert advice tailored to your needs",
+            "Time-saving insights and strategies",
+            "Increased productivity and efficiency",
+            "Improved decision-making",
+            "Access to industry best practices",
+            "Streamlined workflows",
+            "Cost-effective solutions",
+            "Reduced risk and uncertainty",
+            "Customized recommendations for growth",
+            "Support throughout the process"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+           "/assets/images/sconstruction3.avif",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Estimate",
+      "services": [
+        {
+          "image": "/assets/images/sestimate1.jpg",
+          "image1": "/assets/images/sestimate.jpg",
+          "image2": "/assets/images/sestimate.jpg",
+          "icon": "/assets/images/quality.png",
+          "benefits": [
+            "Accurate cost projections",
+            "Helps with budget planning",
+            "Reduces unforeseen expenses",
+            "Clear breakdown of costs",
+            "Facilitates proper resource allocation",
+            "Improves financial planning",
+            "Avoids budget overruns",
+            "Ensures proper financial forecasting",
+            "Guides procurement and material selection",
+            "Provides transparency in pricing"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Plan & Design",
+      "services": [
+        {
+          "image": "/assets/images/splan1.avif",
+          "image1": "/assets/images/splan2.avif",
+          "image2": "/assets/images/splan3.avif",
+          "icon": "/assets/images/Timely.png",
+          "benefits": [
+            "Creative and functional designs",
+            "Optimized space usage",
+            "Seamless project execution",
+            "Personalized design solutions",
+            "Efficient use of resources",
+            "Focus on aesthetics and functionality",
+            "Clear visualization of project outcomes",
+            "Reduced redesigns and reworks",
+            "Improved client satisfaction",
+            "Detailed project specifications"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Construction",
+      "services": [
+        {
+          "image": "/assets/images/sconstruction3.avif",
+          "image1": "/assets/images/sconstruction3.avif",
+          "image2": "/assets/images/sconstruction1.avif",
+          "icon": "/assets/images/moderd.png",
+          "benefits": [
+            "High-quality materials and workmanship",
+            "Timely project completion",
+            "Comprehensive project management",
+            "Ensures safety and compliance",
+            "Skilled labor and expertise",
+            "Cost-effective construction methods",
+            "Sustainable building practices",
+            "Enhanced durability and performance",
+            "Collaborative work environment",
+            "Accurate construction timelines"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Interior Design",
+      "services": [
+        {
+          "image": "/assets/images/sinterior.avif",
+          "image1": "/assets/images/sinterior.avif",
+          "image2": "/assets/images/sinterior3.avif",
+          "icon": "/assets/images/toprated.png",
+          "benefits": [
+            "Aesthetic and functional interiors",
+            "Enhanced home comfort and value",
+            "Personalized design solutions",
+            "Improved space utilization",
+            "Timeless design concepts",
+            "Unique and custom furniture designs",
+            "Better lighting solutions",
+            "Quality material selection",
+            "Increased property value",
+            "Expert color and texture coordination"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Carpentry",
+      "services": [
+        {
+          "image": "/assets/images/scarpentry1.avif",
+          "image1": "/assets/images/scarpentry3.avif",
+          "image2": "/assets/images/carpentry3.avif",
+          "icon": "/assets/images/solutions.png",
+          "benefits": [
+            "Custom woodwork for every need",
+            "Durable and high-quality finishes",
+            "Personalized designs to match your style",
+            "Expert craftsmanship",
+            "Wide range of wood material options",
+            "Precise and detailed measurements",
+            "Eco-friendly and sustainable wood choices",
+            "Timely and efficient service",
+            "Long-lasting products",
+            "Enhances the aesthetic appeal of any space"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Electric Work",
+      "services": [
+        {
+          "image": "/assets/images/selectric.jpg",
+          "image1": "/assets/images/selectric2.avif",
+          "image2": "/assets/images/selectric3.avif",
+          "icon": "/assets/images/toprated.png",
+          "benefits": [
+            "Safe and reliable electrical solutions",
+            "Expert installation and repairs",
+            "Energy-efficient solutions",
+            "Comprehensive electrical inspections",
+            "Up-to-code wiring installations",
+            "Affordable and transparent pricing",
+            "Increased safety and protection",
+            "Quick response to electrical emergencies",
+            "Optimized energy usage and savings",
+            "Enhanced electrical system longevity"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "3D Elevation",
+      "services": [
+        {
+          "image": "/assets/images/edelevation1.avif",
+          "image1": "/assets/images/edelevation.avif",
+          "image2": "/assets/images/3delevation.avif",
+          "icon": "/assets/images/solutions.png",
+          "benefits": [
+            "Realistic 3D visualizations",
+            "Helps in project planning and decision making",
+            "Shows the final outcome before construction",
+            "Facilitates client understanding",
+            "Reduces design errors",
+            "Improves communication with contractors",
+            "Enhanced project presentation",
+            "Faster decision-making process",
+            "Accurate measurements and dimensions",
+            "Simplifies project modifications"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Flooring",
+      "services": [
+        {
+          "image": "/assets/images/sflooring.avif",
+          "image1": "/assets/images/sflooring1.avif",
+          "image2": "/assets/images/flooring1.avif",
+          "icon": "/assets/images/solutions.png",
+          "benefits": [
+            "Wide range of materials and designs",
+            "Durable and long-lasting finishes",
+            "Easy to maintain and clean",
+            "Anti-slip and safe options",
+            "Adds value and aesthetics to spaces",
+            "Eco-friendly and sustainable options",
+            "Affordable pricing",
+            "Improved indoor air quality",
+            "Low maintenance and longevity",
+            "Increases comfort and insulation"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Painting Work",
+      "services": [
+        {
+          "image": "/assets/images/spainting.avif",
+          "image1": "/assets/images/spainting.avif",
+          "image2": "/assets/images/painting1.avif",
+          "icon": "/assets/images/solutions.png",
+          "benefits": [
+            "High-quality paint for a lasting finish",
+            "Experienced painters for precise application",
+            "Wide variety of color options",
+            "Eco-friendly paint options",
+            "Timely completion of painting projects",
+            "Expert surface preparation",
+            "Enhanced aesthetic appeal",
+            "Increased property value",
+            "Protection from weather and damage",
+            "Low odor and non-toxic paint"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Interior Work",
+      "services": [
+        {
+          "image": "/assets/images/sinterior1.avif",
+          "image1": "/assets/images/sinterior.avif",
+          "image2": "/assets/images/interior1.avif",
+          "icon": "/assets/images/solutions.png",
+          "benefits": [
+            "Complete interior makeovers",
+            "Transform your space with modern designs",
+            "Expert craftsmanship and attention to detail",
+            "Creative and functional layout planning",
+            "Use of high-quality materials",
+            "Unique design options tailored to your style",
+            "Improved space optimization",
+            "Seamless project execution",
+            "Energy-efficient solutions",
+            "Enhanced comfort and style"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+            
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Renovation",
+      "services": [
+        {
+          "image": "/assets/images/srenovation1.avif",
+          "image1": "/assets/images/srenovation2.avif",
+          "image2": "/assets/images/renovation2.avif",
+          "icon": "/assets/images/solutions.png",
+          "benefits": [
+            "Expert renovation for outdated spaces",
+            "Improved functionality and style",
+            "Increased property value",
+            "Cost-effective solutions",
+            "Timely and efficient renovations",
+            "High-quality materials and finishes",
+            "Seamless integration with existing structures",
+            "Personalized designs for modern living",
+            "Sustainable renovation practices",
+            "Maximizes your investment"
+          ],
+          "Icons": [
+            "/assets/images/afprice.png",
+            "/assets/images/quality.png",
+            "/assets/images/Timely.png",
+            "/assets/images/moderd.png",
+            "/assets/images/toprated.png",
+            "/assets/images/solutions.png",
+            "/assets/images/budget.png",
+            "/assets/images/moderd.png",
+            "/assets/images/afprice.png",
+            "/assets/images/moderd.png"
+          ],
+          "CompletedImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed2.webp",
+            "/assets/images/completed3.webp"
+          ],
+          "OngoingImage":[
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp",
+            "/assets/images/completed1.webp"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
